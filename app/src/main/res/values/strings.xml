@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="cloud">Cloud</string>
+    <string name="_0">0</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="cloud_line">Cloud Line</string>
+    <string name="pressure">Pressure</string>
+    <string name="city_s">City\'s</string>
+    <string name="weather">Weather</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_details">Get Details</string>
+    <string name="select_your_city">Select Your city.</string>
+    <string name="des">Tap the add button and drag the Marker to your favorites cities to get weather updates.</string>
+</resources>
